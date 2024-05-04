@@ -31,15 +31,11 @@ You can access this dataset through [Google Driver](https://drive.google.com/fil
 
 ## Citation
 ```
-@ARTICLE{10508477,
+@article{wang2024usat,
+  title={USAT: A Universal Speaker-Adaptive Text-to-Speech Approach},
   author={Wang, Wenbin and Song, Yang and Jha, Sanjay},
-  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
-  title={USAT: A Universal Speaker-Adaptive Text-to-Speech Approach}, 
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
   year={2024},
-  volume={},
-  number={},
-  pages={1-15},
-  keywords={Adaptation models;Training;Hidden Markov models;Timbre;Cloning;Speech enhancement;Navigation;Text-to-speech;speaker-adaptive;zero-shot learning;few-shot learning},
-  doi={10.1109/TASLP.2024.3393714}}
-
+  publisher={IEEE}
+}
 ```
