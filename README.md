@@ -2,6 +2,9 @@
 
 The full paper can be accessed here: [arXiv](https://arxiv.org/abs/2404.18094), [IEEE Xplore](https://ieeexplore.ieee.org/document/10508477).
 
+## Dataset Access
+You can access this dataset through [Huggingface](https://huggingface.co/datasets/MushanW/ESLTTS) or [Google Driver](https://drive.google.com/file/d/1ChQ_z-TxvKWNUbUMWnbyjM2VY3v2SKEi/view?usp=sharing) or [IEEE Dataport](http://ieee-dataport.org/documents/english-second-language-tts-esltts-dataset).
+
 ## Abstract
 
 With the progress made in speaker-adaptive TTS approaches, advanced approaches have shown a remarkable capacity to reproduce the speaker’s voice in the commonly used TTS datasets. However, mimicking voices characterized by substantial accents, such as non-native English speakers, is still challenging.  Regrettably, the absence of a dedicated TTS dataset for speakers with substantial accents inhibits the research and evaluation of speaker-adaptive TTS models under such conditions. To address this gap, we developed a corpus of non-native speakers' English utterances.
@@ -25,9 +28,6 @@ ESLTTS Dataset/
 │  ├─ ...
 ├─ ...
 ```
-
-## Online Access
-You can access this dataset through [Google Driver](https://drive.google.com/file/d/1ChQ_z-TxvKWNUbUMWnbyjM2VY3v2SKEi/view?usp=sharing) or [IEEE Dataport](http://ieee-dataport.org/documents/english-second-language-tts-esltts-dataset).
 
 ## Citation
 ```
